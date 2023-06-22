@@ -10,7 +10,7 @@ The infrastructure is created in the `us-west-2` AWS region.
 
 - Terraform 0.14.x
 - AWS Account
-- AWS CLI
+- AWS CLI 
 
 ## Getting Started
 
